@@ -12,14 +12,20 @@ QT DEVELOPMENT TASK FOR IIT BOMBAY INTERNSHIP.
 # FEATURES IMPLEMENTED IN THE NOTEPAD UI
 
 1.Opening a file.
+
 2.Saving a file.
+
 3.Save as option for an edited file.
 
+
 4. Bold/ Unbold/ Italic a particular text.
+
 5.Superscript/ Subscript selected text. - Checkable
 
 6.Dark mode(EXTRA FEATURE ADDED) - Checkable 
+
 7. ABOUT ME BUTTON as well as from Menu- opens my resume in a dialog box.
+
 
 # ISSUES AND DIFFICULTIES.
 
